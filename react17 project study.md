@@ -23,8 +23,9 @@ React Query 管理服务端全局状态
 
 - 接口管理工具
   rap、swagger、moco、yapi
-  
+ 优点：配置功能强大，接口管理与mock一致，后端修改接口mock也跟着更改，可靠。
+ 缺点：配置复杂，依赖后端。小团队一般很少用，等配置完了可能接口也写完了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTE0OTg5NzYsLTE2MjU0NTMzNzEsLT
-E2MDQ0OTQ3NTddfQ==
+eyJoaXN0b3J5IjpbMTg5MDAxNzA4NCwtMTYyNTQ1MzM3MSwtMT
+YwNDQ5NDc1N119
 -->
