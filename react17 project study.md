@@ -28,8 +28,17 @@ React Query 管理服务端全局状态
  一般作为大团队的基础建设而存在。
  - 本地node服务器
  json-server
-配置简单，
+配置简单，快速启动一个REST API server
+可模拟增删改的情况
+
+
+
+REST API
+uri 代表资源/对象 method 代表行为
+
+put --- 全量替换
+patch --- 修改部分内容
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTEzNDQxNTMsLTE2MjU0NTMzNzEsLT
+eyJoaXN0b3J5IjpbLTIwOTQ4NjIwODEsLTE2MjU0NTMzNzEsLT
 E2MDQ0OTQ3NTddfQ==
 -->
